@@ -1,0 +1,9 @@
+.opening {
+    height: 50vh;
+    width: 50vw;
+    margin: auto;
+    background-color: wheat;
+    border:double 3px black; 
+    text-align: center;
+}
+
